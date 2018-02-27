@@ -18,7 +18,8 @@ sólo un README. EN cualquier lugar pueden (y deberían!)
 correr `git status` y `git branch -a` para chequear
 en qué estado está el repositorio y en qué branch están:
 
-
+///////////el ejercicio empieza acà, previamente crear la cuenta en githup, luego entrar al repositorio del WTPC //////////
+ 
 Clonamos un repositorio de github con sólo un README
 
 ```
@@ -29,6 +30,7 @@ cd HOgit
 Editamos el archivo de README y hacemos un nuevo commit
 
 ```
+//////////////podemos usan vim, gedit u otro editor ////////////////
 vi README.md
 .........
 git add README.md
