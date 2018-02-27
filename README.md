@@ -50,7 +50,7 @@ git checkout charlas
 ```
 
 en esta branch, editamos README.md de nuevp
-
+/////////////////// ahora estoy acá!!! ////////////////////////
 ```
 vi README.md
 ...
