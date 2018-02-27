@@ -109,6 +109,15 @@ y listo! en nuestra cuenta de github ya tiene que estar subido. pueden ver el ne
 
 Luego también editamos este readme para agregar los comandos con los que hicimos el repositorio
 
+////////////////////// resumen de comandos de git usados  /////////////////////
+git add <file>
+git commit -m <"comentario de los cambios">
+git branch <nombre del branch>
+git checkout <nombre a donde quiero ir>
+git merge --no-ff <nombre del branch que deseo unir al master>
+git log --oneline --graph  //// grafica la estructura de nuestros cambios
+git push -u <nombre de las ramas que deseo subir al repositorio del WTPC>
+//////////////////////////////////////////////////////////////////////////////
 
 ```
 vi README.md
